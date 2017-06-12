@@ -1,7 +1,7 @@
  # Power BI Service - Create rich visuals of your data
 In this lab you will learn how to use Power BI to connect data, analyze it and model that data to help uncover insights and then track that data to help you make better business decisions. We will be working on a dataset of products sold in different regions of Canada, along 16 years.
 
- ![](/Images/powerbi-intro.png)
+ ![](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Images/powerbi-intro.png)
 
 Power BI is a suite of business tools used to analyze and sharing data. You can monitor your business and get answers quickly with rich dashboards available in every device. Whether your data is a simple Excel spreadsheet, or a collection of cloud-based and on-premises hybrid data warehouses, Power BI lets you easily connect to your data sources, visualize (or discover) what's important, and share that with anyone or everyone you want.
 
