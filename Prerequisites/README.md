@@ -53,4 +53,4 @@ All of the HoL is in english, so if your Office 365 acount is configured in othe
 
  ![](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Prerequisites/Images/6.png)
 
-Alright, so now we are ready start with the [Module - 0 Exploring the portal!](https://github.com/daorti/PowerBIWorkshop/tree/master/Module%200%20-%20Exploring%20the%20portal).
+Alright, so now we are ready start with the [Module - 0 Exploring the portal!](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Module%200%20-%20Exploring%20the%20portal).
