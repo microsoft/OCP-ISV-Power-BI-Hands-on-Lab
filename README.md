@@ -26,7 +26,7 @@ The training is broken down in four self contained modules:
 * Module 3 - [Dashboard and sharing data](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Module%203%20-%20Dashboard%20and%20sharing%20data)
 <!---
 * Module 4 - Power BI Embebbed
-* Module 5 - Mobile Applications
+* Module 5 - Mobile Applications (iOs Android and tablet)
 -->
 
 ## Learn more about Power BI
