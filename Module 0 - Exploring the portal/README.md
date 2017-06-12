@@ -98,4 +98,4 @@ Play with it and ask new questions!
 
 ![](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Module%200%20-%20Exploring%20the%20portal/Images/QandA.PNG)
 
-[Let's create some visualizations of our new data](https://github.com/daorti/PowerBIWorkshop/tree/master/Module%201%20-%20Visualizations%20I)
+[Let's create some visualizations of our new data](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Module%201%20-%20Visualizations%20I)
