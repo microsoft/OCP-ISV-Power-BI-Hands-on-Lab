@@ -14,7 +14,7 @@ Once we have signed in, we need to familiarize with the controls of the portal. 
 7) Button for the main page of Power BI
 8) Some additional actions
 
- ![](/Module%200%20-%20Exploring%20the%20portal/Images/theDashboard.png)
+ ![](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Module%200%20-%20Exploring%20the%20portal/Images/theDashboard.png)
 
 
 ## Left-hand side menu
@@ -26,7 +26,7 @@ Here we can find all of the sections of the Power BI Service. What can they do f
 * Workspaces: The content in Power BI is organized in workspaces. This enables you to classify all of your works, for example in departments, or in teams.
 
 
- ![](/Module%200%20-%20Exploring%20the%20portal/Images/workspaces.png)
+ ![](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Module%200%20-%20Exploring%20the%20portal/Images/workspaces.png)
 
 
 
@@ -35,12 +35,12 @@ If you have started this lab with other colleagues, you can create a unique work
 
 So go to the left-hand side menu, click on *Workspaces* and select *Create app workspace*. A new blade will appear on the right hand. Write a name group and an ID. Remember that the ID must be unique. Invite colleagues to the dashboard and click *Save*.
 
-![](/Module%200%20-%20Exploring%20the%20portal/Images/creatingWorkspace.png)
+![](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Module%200%20-%20Exploring%20the%20portal/Images/creatingWorkspace.png)
  
 After that, set the workspace to private in order to share the content only with the people that you want. In the next question, click on the option that enables the other participants of the dashboard to not only view the content, but edit it as well.
 And finally add the members of your team. Right after that, a new workshop appears in the left-hand side of the portal
 
-![](/Module%200%20-%20Exploring%20the%20portal/Images/createdWorkspace.png)
+![](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Module%200%20-%20Exploring%20the%20portal/Images/createdWorkspace.png)
 
 Invited members of this workshop will receive an e-mail with a link to the new workshop.
 
@@ -49,7 +49,7 @@ Here are the datasets that you can import to the Power BI Service, or connect fr
 
 So now we are going to import a Dataset. Click the button *Get Data*.
 
-![](/Module%200%20-%20Exploring%20the%20portal/Images/getData.png)
+![](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Module%200%20-%20Exploring%20the%20portal/Images/getData.png)
 
 
 Here we have several options:
@@ -59,7 +59,7 @@ Here we have several options:
 * Databases: you can connect to your Azure SQL Database, Azure SQL Data Warehouse, SQL Server Analysis Services or Spark on Azure HDInsight.
 
 
-![](/Module%200%20-%20Exploring%20the%20portal/Images/getDataOptions.png)
+![](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Module%200%20-%20Exploring%20the%20portal/Images/getDataOptions.png)
 
 
 Click again in Local File and select the *Canada sales data.xlsx* file that you can find in the folder of this module. Finally, click on *Import Excel into Power BI*. The other option is just for visualizing the Excel in a Workbook, within the Power BI Service. 
@@ -67,7 +67,7 @@ Click again in Local File and select the *Canada sales data.xlsx* file that you 
 ### Reports
 This is the tool used for creating our visualizations. We can separate them in one or more pages with charts, graphs, treemaps and many many more graphs. All of the visualizations on a report come from a single dataset. You can create a report from the scratch or a collegue can share a report with you. The other members of the workshop will see the same databases and they can start working with it from their own dasboard. One report can be associated with multiple dashboards.
 
-![](/Module%200%20-%20Exploring%20the%20portal/Images/emptyReport.png)
+![](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Module%200%20-%20Exploring%20the%20portal/Images/emptyReport.png)
 
 
 ### Dashboards
@@ -75,7 +75,7 @@ A dashboard is something you create or something a colleague creates and shares 
 
 A dashboard can be filled with tiles from different reports. We will see in Module 3, we will create a dashboard and enrich it pinning tiles on it. So at the end of this lab, you must have a dashboard close to this:
 
-![](/Module%200%20-%20Exploring%20the%20portal/Images/finalDashboard.png)
+![](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Module%200%20-%20Exploring%20the%20portal/Images/finalDashboard.png)
 
 
 ### Quick Insights
@@ -83,7 +83,7 @@ Before beginning with a new report, we need to know what the HoL is about, and t
 
 We can also see some graphs or statistics with a few clicks. From the left-side bar, go to the *Workspace* - *DATASETS*, and click in the three dots next to the dataset name. A new blade will appear. Select *VIEW INSIGHTS*. Wait a few seconds, click in *View insights* and you'll see some interesting graphs that Power BI make for you.
 
-![](/Module%200%20-%20Exploring%20the%20portal/Images/quickInsights.png)
+![](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Module%200%20-%20Exploring%20the%20portal/Images/quickInsights.png)
 
 
 Ok, so in this dataset we can see statistics about sales of products, sold in Canada. We have several information, such as the Product ID, the province where it is sold, the revenue produced for that sell, units sold there and when whas it sold.
@@ -96,6 +96,6 @@ If you click in the dashboard you've just created importing the dataset, you can
 
 Play with it and ask new questions!
 
-![](/Module%200%20-%20Exploring%20the%20portal/Images/QandA.PNG)
+![](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Module%200%20-%20Exploring%20the%20portal/Images/QandA.PNG)
 
 [Let's create some visualizations of our new data](https://github.com/daorti/PowerBIWorkshop/tree/master/Module%201%20-%20Visualizations%20I)
