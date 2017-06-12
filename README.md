@@ -1,4 +1,4 @@
-t # Power BI Service - Create rich visuals of your data
+ # Power BI Service - Create rich visuals of your data
 In this lab you will learn how to use Power BI to connect data, analyze it and model that data to help uncover insights and then track that data to help you make better business decisions. We will be working on a dataset of products sold in different regions of Canada, along 16 years.
 
  ![](/Images/powerbi-intro.png)
