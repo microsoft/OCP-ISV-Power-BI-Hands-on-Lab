@@ -19,8 +19,8 @@ Once we have signed in, we need to familiarize with the controls of the portal. 
 
 ## Left-hand side menu
 Here we can find all of the sections of the Power BI Service. What can they do for us?
-* Favourites: we can add dashboards, reports and databases in that section, to enable quick acces to our most used resources.
-* Recent: here you can find the last activity of the choosen workspace.
+* Favorites: we can add dashboards, reports and databases in that section, to enable quick access to our most used resources.
+* Recent: here you can find the last activity of the chosen workspace.
 * Applications: we won't focus on this section, but it is used to packetize Power BI resources, such as dashboards, reports or data, and sharing them to a customer's Power BI Service.
 * Shared with me: all of the content shared in your company, related to Power BI, is in this blade.
 * Workspaces: The content in Power BI is organized in workspaces. This enables you to classify all of your works, for example in departments, or in teams.
@@ -31,7 +31,7 @@ Here we can find all of the sections of the Power BI Service. What can they do f
 
 
 ## Create a workspace
-If you have started this lab with other colleagues, you can create a unique workspace for all of you, and share every new content in the same workspace. It is recomended to start using the sharing options because it's one of the most powerful features of Power BI.
+If you have started this lab with other colleagues, you can create a unique workspace for all of you, and share every new content in the same workspace. It is recommended to start using the sharing options because it's one of the most powerful features of Power BI.
 
 So go to the left-hand side menu, click on *Workspaces* and select *Create app workspace*. A new blade will appear on the right hand. Write a name group and an ID. Remember that the ID must be unique. Invite colleagues to the dashboard and click *Save*.
 
@@ -54,7 +54,7 @@ So now we are going to import a Dataset. Click the button *Get Data*.
 
 Here we have several options:
 * My organization: In this section we will find all of the Power BI content, shared only by members of my organization.
-* Services: several content packs are offered here, with datasets, reports and dashboards. These packs are prearranged, so for instance it's possible to download the GitHub Service, enter you account and you'll have a full dashboard with graphs and statistics about the use of your GuitHub, with commits, activity, contributions, etc... There is no need on creating a new report or dashboard, the service provides all of it for you.
+* Services: several content packs are offered here, with datasets, reports and dashboards. These packs are prearranged, so for instance it's possible to download the GitHub Service, enter you account and you'll have a full dashboard with graphs and statistics about the use of your GitHub, with commits, activity, contributions, etc... There is no need on creating a new report or dashboard, the service provides all of it for you.
 * Files: you can upload Excel, CSV or Power BI Desktop files. **Choose this option**.
 * Databases: you can connect to your Azure SQL Database, Azure SQL Data Warehouse, SQL Server Analysis Services or Spark on Azure HDInsight.
 
@@ -65,7 +65,7 @@ Here we have several options:
 Click again in Local File and select the *Canada sales data.xlsx* file that you can find in the folder of this module. Finally, click on *Import Excel into Power BI*. The other option is just for visualizing the Excel in a Workbook, within the Power BI Service. 
 
 ### Reports
-This is the tool used for creating our visualizations. We can separate them in one or more pages with charts, graphs, treemaps and many many more graphs. All of the visualizations on a report come from a single dataset. You can create a report from the scratch or a collegue can share a report with you. The other members of the workshop will see the same databases and they can start working with it from their own dasboard. One report can be associated with multiple dashboards.
+This is the tool used for creating our visualizations. We can separate them in one or more pages with charts, graphs, treemaps and many many more graphs. All of the visualizations on a report come from a single dataset. You can create a report from the scratch or a colleague can share a report with you. The other members of the workshop will see the same databases and they can start working with it from their own dashboard. One report can be associated with multiple dashboards.
 
 ![](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Module%200%20-%20Exploring%20the%20portal/Images/emptyReport.png)
 
@@ -86,12 +86,12 @@ We can also see some graphs or statistics with a few clicks. From the left-side 
 ![](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Module%200%20-%20Exploring%20the%20portal/Images/quickInsights.png)
 
 
-Ok, so in this dataset we can see statistics about sales of products, sold in Canada. We have several information, such as the Product ID, the province where it is sold, the revenue produced for that sell, units sold there and when whas it sold.
+Ok, so in this dataset we can see statistics about sales of products, sold in Canada. We have several information, such as the Product ID, the province where it is sold, the revenue produced for that sell, units sold there and when was it sold.
 
 
 ### Q&A question box.
 If you click in the dashboard you've just created importing the dataset, you can make queries in natural language, for example, you can ask:
-> Which manufactuer has the highest revenue in Quebec?
+> Which manufacture has the highest revenue in Quebec?
 
 
 Play with it and ask new questions!
