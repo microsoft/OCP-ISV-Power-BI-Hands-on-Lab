@@ -87,7 +87,7 @@ Open a new page, click on the *Map* visualization and then drag the province in 
 ![](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Module%201%20-%20Visualizations%20I/Images/10.PNG)
 
 
-Now we are going to see how can we plot a Treemap. In the same page, drag and drop the *Units* and the *Manufacturer* to the canvas. Then select the *Treemap*. This is a graph very similar to the pie chart. We can see the proportion of units sold for each manufacturer, sorted by maximun size (up - left) to minumum (right - down).
+Now we are going to see how can we plot a Treemap. In the same page, drag and drop the *Units* and the *Manufacturer* to the canvas. Then select the *Treemap*. This is a graph very similar to the pie chart. We can see the proportion of units sold for each manufacturer, sorted by maximun size (up - left) to minimum (right - down).
 
 Why have we mixed this charts? because I wanted to show you that there is another way to filter our data. Try to click on one of the Provinces of the map and see how the TreeMap chart changes with the units sold of every manufacturer, in that particular province. If you customize it a little bit, you should have something like this:
 
