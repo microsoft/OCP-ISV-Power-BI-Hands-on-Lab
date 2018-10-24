@@ -18,14 +18,14 @@ If you click on the *Save* button and enter a name, a new report will appear on 
 
 These are the main sections when we create a report:
 * Visualizations: where you can choose the most convenient visualization, such as bar char, scatter plot, tables, maps... We will cover almost all of them in this lab. You can also import a *custom visual*, clicking in the three dots on the right of the last *Visualization*, which are visualizations created by third party.
-* Fields and Format tabs: they are right down the *Visualizations*. On the *Fields* tab you can put the values that you want in the axis of the graphs. and the *Format* tab is used to customize the visualization changing the colours, adding titles, changing the font size, etc...
+* Fields and Format tabs: they are right down the *Visualizations*. On the *Fields* tab you can put the values that you want in the axis of the graphs. and the *Format* tab is used to customize the visualization changing the colors, adding titles, changing the font size, etc...
 * Fields: here you will find the database, divided in tables. Each table has a list of columns.
 
-As you can see, you have a visualizations menu, and you the *Fields* menu. Here you'll have all of your tables with it's respectives columns. So let's create out first report!
+As you can see, you have a visualizations menu, and you the *Fields* menu. Here you'll have all of your tables with it's respective columns. So let's create out first report!
 
 ![](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Module%201%20-%20Visualizations%20I/Images/2.PNG)
 
-> NOTE: there are icons next to some fileds. There are three type of icons, the summatory, which means that it is a numeric field; a world icon, which means that there is data about countries on it and we could use it for making interactive maps; and a calculator icon (not in this dataset). This icon appears when we make measurements in Power BI Desktop.
+> NOTE: there are icons next to some fields. There are three type of icons, the summatory, which means that it is a numeric field; a world icon, which means that there is data about countries on it and we could use it for making interactive maps; and a calculator icon (not in this dataset). This icon appears when we make measurements in Power BI Desktop.
 
 
 Maybe the canvas doesn't fill all of the space and your charts are too small. You can customize the canvas size as you want, from the *View* menu.
@@ -67,27 +67,27 @@ Now we have a new challenge. We'll try to make a 4 dimension chart in a 2 dimens
 
 ![](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Module%201%20-%20Visualizations%20I/Images/7.PNG)
 
-What have we done here? For each year (X axis), we can see all of the revenue spent in that year (Y axis), which is represented by the whole bar. At the same time, we can compare it with the units sold in that year, represented with the line. And finally, we have a seggregation of the revenue of each year, separated by the *Segment* field, in different colours. We can see which colour represents a segment in the legend above.
+What have we done here? For each year (X axis), we can see all of the revenue spent in that year (Y axis), which is represented by the whole bar. At the same time, we can compare it with the units sold in that year, represented with the line. And finally, we have a segregation of the revenue of each year, separated by the *Segment* field, in different colors. We can see which color represents a segment in the legend above.
 
 ## Slicer
 Here we introduce the Slicer option. This is used to filter our data, so that we can focus on individual fields. In this case, we will focus on each *Province*. How can we do this? First of all, come back to the first page of the report (the one with a Pie Chart), then go to the visualizations pane and choose the slicer icon. Then click on the *Province* field.
 
 ![](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Module%201%20-%20Visualizations%20I/Images/8.PNG)
 
-Now if we click in any of the provinces, all the charts will automaticlly update with the information of that particular province. You can filter the data with more than one option if you go to *Format - Selection Controls* and turn off the *Single Seleciton* option.
+Now if we click in any of the provinces, all the charts will automatically update with the information of that particular province. You can filter the data with more than one option if you go to *Format - Selection Controls* and turn off the *Single Selection* option.
 
 ![](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Module%201%20-%20Visualizations%20I/Images/9.PNG)
 
 
 ## Maps and Treemaps
-Power BI has also great mapping capabilities. It's quite easy to represent our data in an interactive map, in order to look at the geographical relationships in the data. We are going to use embebbed Bing maps in the report, and customize them with our particular data. For example, let's see the units sold by province.
+Power BI has also great mapping capabilities. It's quite easy to represent our data in an interactive map, in order to look at the geographical relationships in the data. We are going to use embedded Bing maps in the report, and customize them with our particular data. For example, let's see the units sold by province.
 
 Open a new page, click on the *Map* visualization and then drag the province in the *Location* field, and the Units in the *Size* field. This will show us a map with different shapes of circles, regarding the units sold in the provinces. We can also customize it with a legend. Drag and drop the province in the *Legend* field. We should see a map like this one:
 
 ![](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Module%201%20-%20Visualizations%20I/Images/10.PNG)
 
 
-Now we are going to see how can we plot a Treemap. In the same page, drag and drop the *Units* and the *Manufacturer* to the canvas. Then select the *Treemap*. This is a graph very similar to the pie chart. We can see the proportion of units sold for each manufacturer, sorted by maximun size (up - left) to minimum (right - down).
+Now we are going to see how can we plot a Treemap. In the same page, drag and drop the *Units* and the *Manufacturer* to the canvas. Then select the *Treemap*. This is a graph very similar to the pie chart. We can see the proportion of units sold for each manufacturer, sorted by maximum size (up - left) to minimum (right - down).
 
 Why have we mixed this charts? because I wanted to show you that there is another way to filter our data. Try to click on one of the Provinces of the map and see how the TreeMap chart changes with the units sold of every manufacturer, in that particular province. If you customize it a little bit, you should have something like this:
 
