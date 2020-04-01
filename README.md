@@ -15,15 +15,15 @@ Power BI consists of a Windows desktop application called Power BI Desktop, an o
 * Sharing our content
 * Use mobile applications
 
-Before starting the Hands on Lab, please [check the prerequisites.](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Prerequisites)
+Before starting the Hands on Lab, please [check the prerequisites.](/Prerequisites)
 
 ## Overview
 The training is broken down in four self contained modules:
 
-* Module 0 - [Exploring the portal](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Module%200%20-%20Exploring%20the%20portal)
-* Module 1 - [Visualizations I](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Module%201%20-%20Visualizations%20I)
-* Module 2 - [Visualizations II](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Module%202%20-%20Visualizations%20II)
-* Module 3 - [Dashboard and sharing data](/05.%20Power%20BI%20-%20Hands%20on%20Lab/Module%203%20-%20Dashboard%20and%20sharing%20data)
+* Module 0 - [Exploring the portal](/Module%200%20-%20Exploring%20the%20portal)
+* Module 1 - [Visualizations I](/Module%201%20-%20Visualizations%20I)
+* Module 2 - [Visualizations II](/Module%202%20-%20Visualizations%20II)
+* Module 3 - [Dashboard and sharing data](/Module%203%20-%20Dashboard%20and%20sharing%20data)
 <!---
 * Module 4 - Power BI Embebbed
 * Module 5 - Mobile Applications (iOs Android and tablet)
